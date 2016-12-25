@@ -1,4 +1,4 @@
-public MembuatObjek{
+public class MembuatObjek{
   public static void main(String [] args){
     //cara mendeklarasi atau membuat sebuah objek dari class MembuatClass
     MembuatClass kelasBaru = MembuatClass();

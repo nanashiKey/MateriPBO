@@ -1,4 +1,4 @@
-Public Class ContohClass{
+public class MembuatClass{
 
   //deklarasi beberapa variable
   int a = 0;
